@@ -4,7 +4,7 @@ A dead simple single-class implementation of [Robert Penner's](http://robertpenn
 
 ## Usage
 
-All easing code is in [Easing.cs](Assets\\Easing.cs), so feel free to just copy paste this file into your project. 
+All easing code is in [Easing.cs](Assets/Easing.cs), so feel free to just copy paste this file into your project. 
 
 You can call easing functions by name or by enum.
 
