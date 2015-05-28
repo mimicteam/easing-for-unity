@@ -12,9 +12,9 @@
 *.v11.suo
 
 # tk2d
-*/Assets/-tk2d.*
-*/Assets/Resources/tk2d/*
+Assets/-tk2d.*
+Assets/Resources/tk2d/*
 
 # UnityVS
-*/Assets/UnityVS/*
+Assets/UnityVS*
 
