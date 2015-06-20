@@ -15,3 +15,8 @@ Enjoy!
 ## License
 
 Open source under the [MIT and BSD Licenses](LICENSE.md).
+
+## Contact
+
+With love by Mimic Team  
+[Twitter](https://twitter.com/mimicmade). [Github](https://github.com/mimicteam). [Mail](mailto:mimic@mimicteam.com).
